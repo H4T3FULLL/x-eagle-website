@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,body{background:#000;color:#e5e7eb}
+.container{max-width:72rem;margin:0 auto;padding:0 1rem}
+.section{padding:4rem 0}
+.card{background:#0b0b0b;border:1px solid #27272a;border-radius:1rem;padding:1.25rem}
+.btn{display:inline-flex;align-items:center;justify-content:center;padding:.5rem 1rem;border:1px solid #3f3f46;border-radius:.75rem}
+.navlink{color:#d4d4d8}
